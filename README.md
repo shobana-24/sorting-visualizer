@@ -1,3 +1,7 @@
+https://sorting-viz-project.netlify.app/
+
+![image](https://user-images.githubusercontent.com/81622772/205428808-9dc1875b-ddce-4749-aff0-5dad040e4f61.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
